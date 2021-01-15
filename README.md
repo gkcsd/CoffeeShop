@@ -14,4 +14,4 @@ This Is Responsive CoffeeShop Website By Using Advanced HTML, CSS, SASS, JS & PH
 
 ## Live Preview URL
 
-[CoffeeShop](https://sizcoffeeshop.netlify.app/)
+[CoffeeShop](https://sinzcoffeeshop.netlify.app/)
